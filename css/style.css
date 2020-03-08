@@ -1,0 +1,48 @@
+@font-face{
+    src: url(../font/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+.navbar-brand, #new{
+    font-family: "Sacramento";
+    font-size: 35px;
+}
+.nav-link, #name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+#intro, #send, #btn, footer, #contact{
+    font-family: 'Courier New', Courier, monospace;
+}
+.carousel-inner img{
+    height: 650px;
+    width: 100%;
+}
+body{
+    text-align: center;
+    background-color: rgba(224, 231, 240, 0.788);
+}
+#head{
+    font-family: "Sacramento";
+    padding: 30px;
+}
+.img{
+    background: url(../pic/good.png);
+    background-size: cover;
+}
+#form, #bout, #order{
+    font-family: "Sacramento";
+}
+.container{
+    padding: 15px 0px;
+    border-radius: 5%;
+    border-color: black;
+}
+#about, #lead, #purchase{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 35px 25px;
+    margin: auto;
+    background-color: rgba(210, 223, 243, 0.87);
+}
+#about{
+    border-radius: 30px;
+}
